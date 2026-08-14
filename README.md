@@ -324,16 +324,20 @@ Currently deepening my knowledge in:
 
 ---
 
-# 📈 GitHub Stats
+# 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/nazifmhd">
-    <img src="https://github-readme-stats.vercel.app/api?username=nazifmhd&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="180px"/>
-  </a>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nazifmhd&show_icons=true&count_private=true&include_all_commits=true&theme=react&hide_border=true"
+    alt="Mohamed Nazif's GitHub Stats"
+  />
+</p>
 
-  <a href="https://github.com/nazifmhd">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazifmhd&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="180px"/>
-  </a>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazifmhd&layout=compact&langs_count=8&theme=react&hide_border=true"
+    alt="Mohamed Nazif's Top Languages"
+  />
 </p>
 
 ---
@@ -351,9 +355,10 @@ Currently deepening my knowledge in:
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nazifmhd&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
-  </a>
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=nazifmhd&theme=algolia&no-frame=true&no-bg=true&margin-w=5&row=1"
+    alt="Mohamed Nazif's GitHub Trophies"
+  />
 </p>
 
 ---
